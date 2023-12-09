@@ -1,4 +1,4 @@
-# KyoproPattern_90
+# KyoproTypical_90
 
 AtCoder の「競プロ典型 90 問」( https://atcoder.jp/contests/typical90 )を自分で解いた記録を残すためのリポジトリです
 
